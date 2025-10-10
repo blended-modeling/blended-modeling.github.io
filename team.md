@@ -8,6 +8,9 @@
 | ----------------     | ------------------------------------- |
 |Joost van Pinxten     |Canon Production Printing (Netherlands)|
 |Roelof Hamberg        |Canon Production Printing (Netherlands)|
+|Bart Theelen          |Canon Production Printing (Netherlands)|
+|Eugen Schindler       |Canon Production Printing (Netherlands)|
+|Louis van Gool        |Canon Production Printing (Netherlands)|
 |Serhat Culfa          |Ford (Turkey)                          |
 |Jörg Holtmann         |University of Gothenburg (Sweden)      |
 |Jan Philipp Steghöfer | University of Gothenburg (Sweden)     |
